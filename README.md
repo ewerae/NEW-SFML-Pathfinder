@@ -1,3 +1,3 @@
 # SFML-Pathfinder
 
-![](https://github.com/ewerae/NEW_SFML_Pathfinder/blob/main/astar.gif)
+![](https://github.com/ewerae/NEW-SFML-Pathfinder/blob/main/astar.gif)
